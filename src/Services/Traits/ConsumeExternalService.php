@@ -4,7 +4,7 @@ namespace RayconBatista\MicroservicesComunication\Services\Traits;
 
 use Illuminate\Support\Facades\Http;
 
-class ConsumeExternalService
+trait ConsumeExternalService
 {
   public function headers(array $headers = [])
   {
