@@ -1,0 +1,19 @@
+{
+    "name": "rayconbatista/microservices-communication",
+    "description": "Package Files Utils Microsservice Courses - Especializati",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RayconBatista\\MicroservicesCommunication\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RayconBatista",
+            "email": "rayconlimabatista@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
