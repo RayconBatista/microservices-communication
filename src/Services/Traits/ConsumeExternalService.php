@@ -1,6 +1,6 @@
 <?php
 
-namespace RayconBatista\MicroservicesComunication\Services\Traits;
+namespace RayconBatista\MicroservicesCommunication\Services\Traits;
 
 use Illuminate\Support\Facades\Http;
 
